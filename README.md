@@ -1,0 +1,1 @@
+![Alt text](./theme_shot.png?raw=true "Minimal Theme")
